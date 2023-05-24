@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/turbofelo/static/css/main.245795ba.css",
+    "main.js": "/turbofelo/static/js/main.fce5950b.js",
+    "static/js/787.349b0e60.chunk.js": "/turbofelo/static/js/787.349b0e60.chunk.js",
+    "index.html": "/turbofelo/index.html",
+    "main.245795ba.css.map": "/turbofelo/static/css/main.245795ba.css.map",
+    "main.fce5950b.js.map": "/turbofelo/static/js/main.fce5950b.js.map",
+    "787.349b0e60.chunk.js.map": "/turbofelo/static/js/787.349b0e60.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.245795ba.css",
+    "static/js/main.fce5950b.js"
+  ]
+}
