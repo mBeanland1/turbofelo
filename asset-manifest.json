@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/turbofelo/static/css/main.9834706b.css",
-    "main.js": "/turbofelo/static/js/main.1ddc0e23.js",
+    "main.css": "/turbofelo/static/css/main.701a191d.css",
+    "main.js": "/turbofelo/static/js/main.9e5836fb.js",
     "static/js/787.349b0e60.chunk.js": "/turbofelo/static/js/787.349b0e60.chunk.js",
     "index.html": "/turbofelo/index.html",
-    "main.9834706b.css.map": "/turbofelo/static/css/main.9834706b.css.map",
-    "main.1ddc0e23.js.map": "/turbofelo/static/js/main.1ddc0e23.js.map",
+    "main.701a191d.css.map": "/turbofelo/static/css/main.701a191d.css.map",
+    "main.9e5836fb.js.map": "/turbofelo/static/js/main.9e5836fb.js.map",
     "787.349b0e60.chunk.js.map": "/turbofelo/static/js/787.349b0e60.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9834706b.css",
-    "static/js/main.1ddc0e23.js"
+    "static/css/main.701a191d.css",
+    "static/js/main.9e5836fb.js"
   ]
 }
