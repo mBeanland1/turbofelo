@@ -197,9 +197,6 @@ function PlayerStats() {
                             </div>
                         </div>
                         <div className="column ml-4">
-                            <PlayerDetail label="Games Played">
-                                {userStats?.gamesCount ?? 0}
-                            </PlayerDetail>
                             <PlayerDetail label="Win Rate">
                                 {formatWinPercentage(userStats?.winPer ?? 0)}
                             </PlayerDetail>

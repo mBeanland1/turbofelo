@@ -101,7 +101,7 @@ function SubmitScore({ setShowSubmitScore }: SubmitScoreProps) {
         <div className="modal-card">
             <header className="modal-card-head">
                 <p className="modal-card-title">
-                    Submit Score (Just put 10-0 if you can't remember)
+                    Submit Score (Score matters now, don't just put 10-0)
                 </p>
             </header>
             <section className="modal-card-body">
