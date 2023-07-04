@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/turbofelo/static/css/main.558296c0.css",
-    "main.js": "/turbofelo/static/js/main.2db92619.js",
+    "main.js": "/turbofelo/static/js/main.b9cd0464.js",
     "static/js/787.349b0e60.chunk.js": "/turbofelo/static/js/787.349b0e60.chunk.js",
     "static/media/default-avatar.jpg": "/turbofelo/static/media/default-avatar.cf9d632c8be1d2e9f1c7.jpg",
     "index.html": "/turbofelo/index.html",
     "main.558296c0.css.map": "/turbofelo/static/css/main.558296c0.css.map",
-    "main.2db92619.js.map": "/turbofelo/static/js/main.2db92619.js.map",
+    "main.b9cd0464.js.map": "/turbofelo/static/js/main.b9cd0464.js.map",
     "787.349b0e60.chunk.js.map": "/turbofelo/static/js/787.349b0e60.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.558296c0.css",
-    "static/js/main.2db92619.js"
+    "static/js/main.b9cd0464.js"
   ]
 }
